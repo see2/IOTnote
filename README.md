@@ -1,2 +1,2 @@
 # IOTnote
-Notes of project conbining robotics, IOT, Automation and AI.
+Notes of project combining robotics, IOT, Automation and AI.
